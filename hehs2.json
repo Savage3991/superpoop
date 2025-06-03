@@ -1,8 +1,5 @@
 {
     "SupportedClient": "version-d876978bd9334a65",
     "SoftwareVersion": "2.0",
-    "Changelog": "Started a V2 Version cuz of 500x Offsets\
-\
-[+] Rewrote everything except TPHandler\
-[+] 8% UNC atm"
+    "Changelog": "Started a V2 Version cuz of 500x Offsets\n\n[+] Rewrote everything except TPHandler\n[+] 8% UNC atm"
 }
