@@ -1,5 +1,5 @@
 {
     "SupportedClient": "version-373a6587af0a4ba5",
-    "SoftwareVersion": "lobre",
-    "Changelog": "the owner of the exploit above me is gay"
+    "SoftwareVersion": "2.0.3",
+    "Changelog": "Fixed game index hook\nFixed issue with L->C hooking\n\nAdded getgc\nAdded Filesystem lib (26% sUnc)"
 }
