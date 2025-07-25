@@ -1,5 +1,5 @@
 {
     "SupportedClient": "version-774691dc93a947ef",
-    "SoftwareVersion": "seeyuh.3.3.12",
-    "Changelog": "Sens getconnections is meant to return a function if the connection is not a CClosure, that's how it worked on Syn X, Script-Ware, Sentinel"
+    "SoftwareVersion": "seeyuh.3.3.13",
+    "Changelog": "obama have dih"
 }
