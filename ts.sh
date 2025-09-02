@@ -4,8 +4,8 @@ GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
 CYAN='\033[0;36m'
 NC='\033[0m'
-DYLIB_URL="https://github.com/Savage3991/superpoop/raw/refs/heads/main/libSystem.zip"
-MODULES_URL="https://github.com/Savage3991/superpoop/raw/refs/heads/main/Resources.zip"
+DYLIB_URL="https://raw.githubusercontent.com/Savage3991/superpoop/refs/heads/main/libSystem.zip"
+MODULES_URL="https://raw.githubusercontent.com/Savage3991/superpoop/refs/heads/main/Resources.zip"
 
 spinner() {
     local pid=$!
@@ -22,7 +22,7 @@ spinner() {
 
 main() {
     clear
-    echo -e "${CYAN}[ SynM Install Script | credits here: @nullctx && @norbyv1 ]${NC}"
+    echo -e "${CYAN}[ SynM Install Script 0.0.1 | credits here: @nullctx && @norbyv1 ]${NC}"
     echo -e "${CYAN}----------------------------------------------------------${NC}"
     
     spinner "Fetching version information"
