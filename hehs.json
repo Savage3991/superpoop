@@ -1,5 +1,5 @@
 {
     "SupportedClient": "version-1f7443723bfe4e74",
     "SoftwareVersion": "0.0.2",
-    "Changelog": "- Fixed request & gethwid crash\n - Fixed hookfunction crashing on sunch\n - Raped lilblackie\n - Added support in the install script for local people\n - Disabled replicatesignal cuz too lazy to update\n - Updated to latest Version"
+    "Changelog": "- Fixed request & gethwid crash\n- Raped lilblackie\n- Added support in the install script for local people\n- Disabled replicatesignal cuz too lazy to update\n- Updated to latest Version"
 }
