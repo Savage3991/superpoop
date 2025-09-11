@@ -1,5 +1,5 @@
 {
-    "SupportedClient": "version-1f7443723bfe4e74",
-    "SoftwareVersion": "0.0.3",
-    "Changelog": "- Improved hookfunction\n- Added setclipboard, fireclickdetector, fireproximityprompt, firetouchinterest\n- Updated replicatesignal, setthreadidentity\n- Maybe fixed a crash for some people\n\nsUNC no more crashes holy flop"
+    "SupportedClient": "version-d0644711edef4361",
+    "SoftwareVersion": "0.0.4",
+    "Changelog": "- Remade Closure Lib fully passes sunc now (added getfunctionhash & restorefunction)\n - Added getgc, getfflag,setfflag, getscriptbytecode, getinstances, getnilinstances, getscripts & WebSocket Lib & Cache Lib & Debug Lib\n - Updated to latest version"
 }
