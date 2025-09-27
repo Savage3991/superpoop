@@ -1,5 +1,5 @@
 {
-    "SupportedClient": "version-d0644711edef4361",
-    "SoftwareVersion": "0.0.4",
-    "Changelog": "- Remade Closure Lib fully passes sunc now (added getfunctionhash & restorefunction)\n - Added getgc, getfflag,setfflag, getscriptbytecode, getinstances, getnilinstances, getscripts & WebSocket Lib & Cache Lib & Debug Lib\n - Updated to latest version"
+    "SupportedClient": "version-c19e695f9cce4f80",
+    "SoftwareVersion": "0.0.5",
+    "Changelog": "[+] Added Drawing Lib\n[/] Fixed Support for old Macs (i hope)\n[+] Updated to latest Version\n\nsorry for no update in 2 weeks ive been busy"
 }
