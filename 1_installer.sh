@@ -29,7 +29,7 @@ main() {
     json=$(curl -s "https://clientsettingscdn.roblox.com/v2/client-version/MacPlayer")
     local version=$(echo "$json" | grep -o '"clientVersionUpload":"[^"]*' | grep -o '[^"]*$')
     
-    if [ "$version" != "version-c19e695f9cce4f80" ]; then
+    if [ "$version" != "version-37e30b38ccca45d0" ]; then
         echo -e "${RED}SynM has not yet updated to the latest version of Roblox ($version); aborting installation!${NC}"
         exit 1
     fi
