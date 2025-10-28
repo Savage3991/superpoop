@@ -1,0 +1,10 @@
+{
+    {
+        titel = "v2.1.0",
+        changelog = "- Added Monaco Editor support\n- Implemented Luau LSP integration\n- New accent color customization",
+    },
+    {
+        titel = "v2.0.5",
+        changelog = "- Nothing\n- Nothing\n- Nothing",
+    }
+}
